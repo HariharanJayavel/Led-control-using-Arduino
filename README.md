@@ -1,5 +1,5 @@
-### NAME : HARIHARAN J
-### REG NO : 212223240047
+## NAME : HARIHARAN J
+## REG NO : 212223240047
 
 # EX.NO : 1 Led-control-using-Arduino
 
@@ -44,20 +44,20 @@ Push button switches or push switches are small lever-like devices used to creat
 The pullup resistor is nothing but a high-value resistor connecting to the Arduino digital pin you are using with the HIGH (5v) voltage.
 
 <p align="center">
-  <img src="https://github.com/anishkumar-Embedded/Led-control-using-Arduino/assets/71547910/afa696a5-5cdf-4b58-aaee-983089e03130" alt="Description" width="800" height="500">
+  <img src="https://github.com/anishkumar-Embedded/Led-control-using-Arduino/assets/71547910/afa696a5-5cdf-4b58-aaee-983089e03130" alt="Description" width="1000" height="600">
 </p>
 
 ### Led
 LED is a semiconductor light source. It consists of a PN Junction Diode and when voltage is applied to the LED, electrons and holes recombine in the PN Junction and release energy in the form of light (Photons).The light emitted by an LED is usually monochromatic i.e. of single color and the color is dependent on the energy band gap of the semiconductor.Light Emitting Diodes can be manufactured to emit all the wavelengths of visible spectrum i.e. from Red (620nm to 750nm) to blue – violet (380nm to 490nm).The electrical symbol of an LED is similar to that of a PN Junction Diode
 
 <p align="center">
-  <img src="https://github.com/anishkumar-Embedded/Led-control-using-Arduino/assets/71547910/d7a70bbf-453c-47af-9215-9a6e252f9503" alt="Description" width="800" height="500">
+  <img src="https://github.com/anishkumar-Embedded/Led-control-using-Arduino/assets/71547910/d7a70bbf-453c-47af-9215-9a6e252f9503" alt="Description" width="1000" height="600">
 </p>
 
 ### Working 
 In the setup function, the pin mode for the LED and pushbutton pins are set using the pinMode function. The pin mode for the LED pin is set to OUTPUT, and the pin mode for the pushbutton pin is set to INPUT.In the loop function, the state of the pushbutton is read using the digitalRead function. If the pushbutton is pressed (HIGH state), the LED is turned on using the digitalWrite function. If the pushbutton is not pressed (LOW state), the LED is turned off. This process is repeated continuously, with the state of the pushbutton and the state of the LED being continuously checked and updated.
 <p align="center">
-  <img src="https://github.com/anishkumar-Embedded/Led-control-using-Arduino/assets/71547910/8b4930b4-4040-46ab-9e2e-d3277559ae6f" alt="Description" width="800" height="500">
+  <img src="https://github.com/anishkumar-Embedded/Led-control-using-Arduino/assets/71547910/8b4930b4-4040-46ab-9e2e-d3277559ae6f" alt="Description" width="1000" height="600">
 </p>
 
 ### Applications
@@ -70,7 +70,7 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a35dbbf1-e094-4f7a-888a-8358c966839d" alt="Description" width="800" height="500">
+  <img src="https://github.com/user-attachments/assets/a35dbbf1-e094-4f7a-888a-8358c966839d" alt="Description" width="1000" height="600">
 </p>
 
 ## PROGRAM
@@ -99,12 +99,12 @@ void loop() {
 
 ### LED ON
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f0d2bf82-de6f-4aa7-96a0-bfb988b7ec71" alt="Description" width="800" height="500">
+  <img src="https://github.com/user-attachments/assets/f0d2bf82-de6f-4aa7-96a0-bfb988b7ec71" alt="Description" width="1000" height="600">
 </p>
 
 ### LED OFF
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eccddab7-c066-43b2-b474-80a4f29ed0b2" alt="Description" width="800" height="500">
+  <img src="https://github.com/user-attachments/assets/eccddab7-c066-43b2-b474-80a4f29ed0b2" alt="Description" width="1000" height="600">
 </p>
 
 ## RESULT
