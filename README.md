@@ -97,4 +97,15 @@ void loop() {
 
 ## OUTPUT
 
+### LED ON
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f0d2bf82-de6f-4aa7-96a0-bfb988b7ec71" alt="Description" width="800" height="500">
+</p>
+
+### LED OFF
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eccddab7-c066-43b2-b474-80a4f29ed0b2" alt="Description" width="800" height="500">
+</p>
+
 ## RESULT
+Thus to design and implement a system for LED control using an Arduino microcontroller and a push button is successfully executed
