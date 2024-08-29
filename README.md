@@ -70,7 +70,7 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a35dbbf1-e094-4f7a-888a-8358c966839d" alt="Description" width="400" height="600">
+  <img src="https://github.com/user-attachments/assets/a35dbbf1-e094-4f7a-888a-8358c966839d" alt="Description" width="400" >
 </p>
 
 ## PROGRAM
